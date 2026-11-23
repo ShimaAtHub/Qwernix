@@ -1,10 +1,11 @@
-# Qwernix
-Programming language, focused on creating ASCII games in the terminal of a interpeter you are using. 
+Qwernix
 
+A programming language focused on creating ASCII games in the terminal of the interpreter you are using.Requirements & Recommended Interpreters
 
-
-For running it, you will need an python interpeter. I recommend:
+To run it, you will need a Python interpreter. Here are the recommended options for different platforms.
 Android: Pydroid 3
-iOS: a-Shell mini (or basic version, but mini is lighter) 
+iOS: a-Shell mini (or the basic version, though mini is lighter)
 Windows, macOS: VS Code
-Linux: VS code, or CPython
+Linux: VS Code or CPython
+
+
